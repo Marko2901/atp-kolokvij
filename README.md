@@ -23,3 +23,5 @@ Kod: https://gist.github.com/Starfruit2210/b09e5912cf6342d86bd2b7515695e0d3
 | IME I PREZIME   | NAZIV    | DATUM RADA |
 |-----------------|----------|------------|
 | Marko Bobanović | Kolokvij | 23.01.2025.|
+
+[LINK NA LICENCU](LICENSE.md)
